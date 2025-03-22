@@ -1,22 +1,22 @@
-<img align="right" src="https://github.com/rajasekark54/rajasekark54/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/rajasekar-kannan/rajasekar-kannan/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
 ### Hi there, I am Rajasekar Kannan 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajasekark54-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasekark54/)](https://www.linkedin.com/in/rajasekark54/)
-[![Gmail Badge](https://img.shields.io/badge/-rajasekark54@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajasekark54@gmail.com)](mailto:rajasekark54@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-rajasekar-kannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasekar-kannan/)](https://www.linkedin.com/in/rajasekar-kannan/)
+[![Gmail Badge](https://img.shields.io/badge/-rajasekar.kannan.b@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajasekar.kannan.b@gmail.com)](mailto:rajasekar.kannan.b@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajasekark54.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://rajasekar-kannan.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
 - NodeJS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
-- Javascript Developer 🧐
+- Javascript | Typescript Developer 🧐
 - Blockchain and Smart contract 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajasekark54&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajasekar-kannan&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
